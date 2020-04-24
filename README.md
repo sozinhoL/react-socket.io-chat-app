@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/csmadhav/react-socket.io-chat-app) 
+
 # React Socket IO Chat-app Example
 A simple real-time chat application implementation using Socket.io, Node and React.
 
